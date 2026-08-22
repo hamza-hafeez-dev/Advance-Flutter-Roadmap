@@ -12,36 +12,6 @@ You'll find simple examples, practice code, and projects along the way.
 
 ## 🗺️ Learning Path
 
-The recommended order is:
-
-```text
-Dart
-  ↓
-Flutter Basics
-  ↓
-UI Development
-  ↓
-State Management
-  ↓
-Data & APIs
-  ↓
-Local Storage
-  ↓
-Firebase
-  ↓
-Architecture
-  ↓
-Testing
-  ↓
-Advanced Flutter
-  ↓
-Projects
-```
-
-If you're completely new, **start with `01-dart`** and follow the folders in order.
-
----
-
 ## 📚 What's Inside?
 
 ### 01 — Dart
@@ -227,38 +197,6 @@ flutter-roadmap/
     ├── 03-api-project/
     ├── 04-firebase-project/
     └── 05-production-project/
-```
-
----
-
-## 🎯 How to Use This Repo
-
-Don't try to learn everything at once.
-
-Start from the beginning, practice each topic, and move forward when you feel comfortable with it.
-
-```text
-01-dart
-   ↓
-02-flutter-basics
-   ↓
-03-ui-development
-   ↓
-04-state-management
-   ↓
-05-data-and-apis
-   ↓
-06-local-storage
-   ↓
-07-firebase
-   ↓
-08-architecture
-   ↓
-09-testing
-   ↓
-10-advanced-flutter
-   ↓
-11-projects
 ```
 
 My goal is to keep this repo **simple, practical, and easy to follow**.
